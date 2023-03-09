@@ -12,6 +12,7 @@
 ---
 
 ## About
+I am a frontend developer with a particular interest in interfaces and visualization. I have experience in web design and leading small developer teams. I try to keep up with best practices, and am always looking for new things to learn.
 
 ---
 
