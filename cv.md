@@ -37,6 +37,7 @@ I am a frontend developer with a particular interest in interfaces and visualiza
 ### Limited experience 
 * `PHP`, `Python`, `C`, `C++`, `Bash`, `Unreal Engine`, `Canvas`
 * `Vue 3`
+* `Vim` *(Esc -> :q! ;)*
 
 ---
 
@@ -82,27 +83,48 @@ const getLengthOfMissingArray = arrayOfArrays => {
 
 ## Experience
 
-### *(April 2021 - present)* Freelance Web Developer
+### Freelance Web Developer
+*(April 2021 - present)* 
 
-#### European House [ikea-39.ru](https://ikea-39.ru/)
-
+#### European House
+* **Main project:** [ikea-39.ru](https://ikea-39.ru/)
 * **Tasks:** development of a product catalog, integration with services; full stack: planning, frontend, backend, deploy.
-
 * **Technologies:** React, Redux, Sass, pug, wordpress, nodejs, express, gulp, webpack, linux, ssh.
 
-#### "ЭКСКО" - an independent expert organization [excopro.ru](https://excopro.ru/)
-
+#### "ЭКСКО" - an independent expert organization
+* **Main project:** [excopro.ru](https://excopro.ru/)
 * **Tasks:** development of company websites and internal tools, consulting.
-
 * **Technologies:** HTML, CSS, JavaScript, wordpress, React, Redux, SCSS, pug, gulp, webpack.
 
 #### JAST Holding
-* **Tasks:** development and updating of landing pages for company projects, development of company catalogs, consulting.
+* **Tasks:** development of sites and landing pages for company projects, development of company catalogs, consulting.
 * **Technologies:** HTML, CSS, JavaScript, wordpress, React, SCSS, pug, gulp, webpack.
 
 
+### JAST Holding / Web Developer, Team Lead
+*(September 2019 — March 2021)* 
+<!-- * **Main project:** -->
+* **Tasks:** development of sites and landing pages for company projects, development of an internal CRM, coordinating the work of designers, copywriters and contractors.
+* **Technologies:** HTML, CSS, JavaScript, wordpress, SCSS, pug, gulp, webpack
+* **Planning:** Scrum, Kanban.
 
 
+### OldBoy Barbershop Franchise / Web developer, CTO
+*(November 2016 — August 2019)* 
+
+* **Main project:** [oldboybarbershop.com](https://oldboybarbershop.com/)
+* **Tasks:** development of websites and landing pages for company projects, development of internal company tools, coordinated the work of junior developers, designers, copywriters, marketers and contractors.
+* **Achievements:** created a development department from scratch, under my leadership and direct participation (frontend) developed we launched the 3rd version of the franchise portal, which more than doubled the rates of online entries in franchise branches.
+* **Technologies:** HTML, CSS, JavaScript, wordpress, SCSS, pug, gulp, webpack, PHP.
+* **Planning:** Scrum, Kanban.
+
+
+### Freelance Web developer
+*(August 2015 — November 2016)*
+
+* **Tasks:** development of wordpress sites with custom themes, development of landing pages
+* **Technologies:** HTML, CSS, JavaScript, wordpress, SCSS, gulp, Photoshop
+* **Planning:** Kanban
 ---
 
 ## Education
