@@ -10,7 +10,29 @@
 
 ## Skills
 
-## Code sample
+## Code example
+```javascript
+// This is arithmetical solution with O(n)
+// Could be also done with sort + reduce but O(n log n)
+const getLengthOfMissingArray = arrayOfArrays => {
+  if (!arrayOfArrays?.length) return 0
+
+  let [ maxLen, minLen, lenSum ] = [ 0, Number.MAX_VALUE, 0 ]
+
+  for (el of arrayOfArrays) {
+    if (!el?.length) return 0
+    minLen = Math.min(el.length, minLen)
+    maxLen = Math.max(el.length, maxLen)
+    lenSum += el.length
+  }
+
+  minLen--
+  const maxSum = maxLen * (maxLen + 1) / 2
+  const minSum = minLen * (minLen + 1) / 2
+
+  return maxSum - lenSum - minSum
+}
+```
 
 ## Experience
 
