@@ -18,40 +18,40 @@ I am a frontend developer with a particular interest in interfaces and visualiza
 
 ## Skills
 ### Languages, Frameworks & Libraries
-* HTML, CSS, JavaScript(ES5, ES6+), ActionScript 3(ECMA 4), Markdown
-* React, Next.js, express, Node.js
-* Sass, pug
-* Wordpress, KeystoneJS
+* `HTML`, `CSS`, `JavaScript`*(ES5, ES6+)*, `ActionScript 3`*(ECMA 4)*, `Markdown`
+* `React`, `Next.js`, `express`, `Node.js`
+* `Sass`, `pug`
+* `Wordpress`, `KeystoneJS`
 
 ### Tools & Technologies
-* Linux
-* Webpack, gulp, Git, GitHub
-* BEM
+* `Linux`
+* `Webpack`, `gulp`, `Git`, `GitHub`
+* `BEM`
 
 ### Other skills
-* Photoshop, figma, UX/UI
-* Touch typing
-* Project management
+* `Photoshop`, `figma`, `UX/UI`
+* `Touch typing`
+* `Project management`
 
 ### Limited experience 
-* PHP, C, C++, Bash, Unreal Engine, Canvas
-* Vue 3
+* `PHP`, `Python`, `C`, `C++`, `Bash`, `Unreal Engine`, `Canvas`
+* `Vue 3`
 
 ---
 
 ## Code example
 
 ### Task:
-> You get an array of arrays. 
-> If you sort the arrays by their length, you will see, that their length-values are consecutive. But one array is missing! 
-> You have to write a method, that return the length of the missing array. 
+> * You get an array of arrays. 
+> * If you sort the arrays by their length, you will see, that their length-values are consecutive. But one array is missing! 
+> * You have to write a method, that return the length of the missing array. 
 >Example:
 > ```javascript
 >[[1, 2], [4, 5, 1, 1], [1], [5, 6, 7, 8, 9]] --> 3
 > ```
->If the array of arrays is null/nil or empty, the method should return 0. 
-> When an array in the array is null or empty, the method should return 0 too! 
-> There will always be a missing element and its length will be always between the given arrays. 
+> * If the array of arrays is null/nil or empty, the method should return 0. 
+> * When an array in the array is null or empty, the method should return 0 too! 
+> * There will always be a missing element and its length will be always between the given arrays. 
 
 ### My solution:
 ```javascript
