@@ -1,6 +1,8 @@
 # Yuriy Kurenkov
 **Web developer, Indie game developer**
 
+![photo](photo.jpg)
+
 ---
 
 ## Contacts
