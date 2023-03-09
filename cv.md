@@ -38,6 +38,20 @@ const getLengthOfMissingArray = arrayOfArrays => {
 
 ## Education
 
+* 2001-2006 Baltic Fishing Fleet State Academy / Master of Computer Applications - MCA
+
+### Courses
+* 2015 HTML Academy / Basic HTML & CSS
+* 2015 HTML Academy / Advanced HTML & CSS
+* 2018 HTML Academy / Professional JavaScript, level 1
+* 2020 HTML Academy / Professional JavaScript, level 2
+* 2020 HTML Academy / React. Development of Complex Front-end Applications
+
+### Courses in progress
+* Udemy / JTS. Technical skills Senior Web Developers shoud know
+* HTML Academy / Algorithms and data structures
+* HTML Academy / Vue.js 3. Development of Complex Front-end Applications
+
 ## Languages
 * **English** - Professional Working (B2)
 * **Russian** - Native
