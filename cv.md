@@ -1,4 +1,7 @@
 # Yuriy Kurenkov
+**Fullstack web developer, Indie game developer**
+
+---
 
 ## Contacts
 * **Email**: [mr.kurenkov@gmail.com](mailto:mr.kurenkov@gmail.com)
@@ -6,9 +9,34 @@
 * **GitHub**: <https://github.com/nigel-riss>
 * **LinkedIn**: <https://www.linkedin.com/in/mrkurenkov/>
 
+---
+
 ## About
 
+---
+
 ## Skills
+### Languages, Frameworks & Libraries
+* HTML, CSS, JavaScript(ES5, ES6+), ActionScript 3(ECMA 4), Markdown
+* React, Next.js, express, Node.js
+* Sass, pug
+* Wordpress, KeystoneJS
+
+### Tools & Technologies
+* Linux
+* Webpack, gulp, Git, GitHub
+* BEM
+
+### Other skills
+* Photoshop, figma, UX/UI
+* Touch typing
+* Project management
+
+### Limited experience 
+* PHP, C, C++, Bash, Unreal Engine, Canvas
+* Vue 3
+
+---
 
 ## Code example
 ```javascript
@@ -34,7 +62,11 @@ const getLengthOfMissingArray = arrayOfArrays => {
 }
 ```
 
+---
+
 ## Experience
+
+---
 
 ## Education
 
