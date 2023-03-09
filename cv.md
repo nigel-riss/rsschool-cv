@@ -1,5 +1,5 @@
 # Yuriy Kurenkov
-**Fullstack web developer, Indie game developer**
+**Web developer, Indie game developer**
 
 ---
 
@@ -30,6 +30,7 @@ I am a frontend developer with a particular interest in interfaces and visualiza
 
 ### Other skills
 * `Photoshop`, `figma`, `UX/UI`
+* `VS Code`, `nano`
 * `Touch typing`
 * `Project management`
 
@@ -80,6 +81,27 @@ const getLengthOfMissingArray = arrayOfArrays => {
 ---
 
 ## Experience
+
+### *(April 2021 - present)* Freelance Web Developer
+
+#### European House [ikea-39.ru](https://ikea-39.ru/)
+
+* **Tasks:** development of a product catalog, integration with services; full stack: planning, frontend, backend, deploy.
+
+* **Technologies:** React, Redux, Sass, pug, wordpress, nodejs, express, gulp, webpack, linux, ssh.
+
+#### "ЭКСКО" - an independent expert organization [excopro.ru](https://excopro.ru/)
+
+* **Tasks:** development of company websites and internal tools, consulting.
+
+* **Technologies:** HTML, CSS, JavaScript, wordpress, React, Redux, SCSS, pug, gulp, webpack.
+
+#### JAST Holding
+* **Tasks:** development and updating of landing pages for company projects, development of company catalogs, consulting.
+* **Technologies:** HTML, CSS, JavaScript, wordpress, React, SCSS, pug, gulp, webpack.
+
+
+
 
 ---
 
